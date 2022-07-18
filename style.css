@@ -1,0 +1,18 @@
+.container{
+    max-width: 55%;
+    background-color: antiquewhite;
+    margin: auto;
+    opacity: 0.9;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-family: 'Acme', sans-serif;
+}
+.but{
+    color: #000000;
+    background: white;
+    border-radius: 17px;
+    padding: 1px 105px;
+    cursor: pointer;
+}
